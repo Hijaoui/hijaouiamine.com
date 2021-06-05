@@ -575,8 +575,8 @@ footer {
 
 @media (max-width: 768px) {
   header {
-    background-size: 150% !important;
-    background-position: bottom right -10rem;
+    background-size: 250% !important;
+    background-position: top right -10rem;
   }
 
   .header__title {
